@@ -1,11 +1,13 @@
 Readme for Liri-node-app
 
 ```
-to install these npm packages run these commands one at a time.
+Before running this app, 
+run these commands one at a time to install necessary packages
 
 npm install twitter
 npm install spotify
 npm install request
+npm install dotenv
 
 *******     Commands to run LIRI     *******
 

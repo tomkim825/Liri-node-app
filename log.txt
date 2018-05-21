@@ -1,0 +1,68 @@
+
+ --------------------
+You asked for: movie-this avengers
+
+Title: The Avengers
+Rotten Tomatoes Rating: 92%
+Release Year: 2012
+Where Movie Was Produced (Country) : USA
+IMDB Rating: 8.1
+Language of Movie: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+ --------------------
+You asked for: spotify-this-song 
+
+Please enter a track name to search. Some good ones are "Snow - Hey Oh", "Busy Child", or "One Week".   
+For now, I pulled up info on "The Sign" by Ace of Base:
+
+Here are the top 3 results: 
+
+-------------------------------- Result 1 --------------------------------
+Album Name: The Sign (US Album) [Remastered]
+
+-------------------------------- Result 2 --------------------------------
+Artist: Ace of Base
+Artist: Ace of Base
+Song Name: All That She Wants
+Preview Link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Album Name: The Sign (US Album) [Remastered]
+
+-------------------------------- Result 3 --------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: Greatest Hits
+Preview Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+--------------------------------------------------------------------------
+Preview Link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Song Name: The Sign
+ --------------------
+You asked for: do-what-it-says 
+
+Reading Random.txt.... 
+command is: spotify-this-song
+input is: "I Want it That Way"
+Loading....
+
+Here are the top 3 results: 
+
+-------------------------------- Result 1 --------------------------------
+Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song Name: I Want It That Way
+
+-------------------------------- Result 2 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album Name: Millennium
+
+-------------------------------- Result 3 --------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+Album Name: The Essential Backstreet Boys
+
+--------------------------------------------------------------------------
+Artist: Backstreet Boys
